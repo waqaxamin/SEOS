@@ -1,0 +1,151 @@
+@charset "UTF-8";
+.navigation {
+    margin-top: 35px;
+    align-items: center;
+    margin-bottom: 50px;
+}
+ul {
+        list-style-type: none;
+        margin: 0;
+    padding: 20px;
+    margin-left: 40px;
+    } 
+li {
+    display: inline;
+    padding-left: 80px;
+    font-size: 20px;
+}
+a:link {
+  color: red;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+.contact{
+    background-color: #000099;
+    border-radius: 10px;
+    shape-margin: 0px;
+    font-size: 15px;
+    color: aliceblue;
+    padding: 12px;
+    text-align: center;
+    font-size:18px;
+    font-family: sans-serif;
+
+}
+.links1{
+    text-decoration: none;
+}
+.p1{
+   margin-left: 60PX;
+    font-family: serif;
+    font-size: 20PX;
+  margin-right: 650px;
+    margin-bottom: 50px;
+}
+.h1{
+    font-family: serif;
+    font-size: 50px;
+    display: inline;
+    margin-left: 60px;
+margin-bottom: 50px;
+    color: #304DA1;
+}
+.img2{
+    float: right;
+    margin-right: 50px;
+    margin-top: -20px;
+}
+.contact2{
+    margin-top: 120px;
+    background-color: #000099;
+    border-radius: 10px;
+    font-size: 15px;
+    color: aliceblue;
+    padding:10px;
+   text-align: center;
+    font-size:18px;
+    font-family: sans-serif;
+    margin-left: 150px;
+    text-decoration: none;
+    animation: none;
+    margin-bottom: 50px;
+    shape-margin: 60px;
+ 
+}
+.p2{
+    align-content: center;
+    margin-left: 300px;
+    font-family: serif;
+font-size:50px;
+    text-emphasis-position: below;
+    color: #304DA1;
+}
+#table1{
+    margin-left: 0px;
+    padding: 20px;
+    margin-top:-10px;
+    border-color: white;
+}
+#link{
+  
+    font-size: 25px;
+    align-content: center;
+}
+#link2{
+   
+    font-size: 25px;
+    align-content: center;
+}
+.p3{
+    margin-top: -75px;
+    margin-left: 260px;
+}
+    a:link {
+  color: #4B0082;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: #D3D3D3;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+    .img3{
+    float: left;
+    margin-right: 50px;
+    margin-top: -20px;
+}
+.h2{
+    font-family: serif;
+    font-size: 50px;
+    display: inline;
+    margin-left: 200px;
+margin-bottom: 50px;
+    color: #304DA1;
+}
+
+   
+    

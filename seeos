@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+    <ttitle>seos
+    </ttitle>
+    <meta charset="utf-8">
+    <link href="seos.css" media="screen" rel="stylesheet">
+    </head>
+<body>
+    <header>
+        <nav role="navigation" class="navigation"><ul><a href="seos.html"><img src="logo.png"></a>
+            <p><a href="google.com">Home</a></p>
+            <p><a href="google.com">About us</a></p>
+            <p><a href="google.com">Services</a></p>
+            <p><a href="google.com">Contact</a></p>
+            <p><a href="google.com">Blog</a></p>
+            <p><a href="google.com">Pages</a></p>
+            <p><a href="google.com">Contact us</a></p>
+            </ul>
+        </nav>
+    </header>
+    <h1>we collect high quality leads</h1>
+    <p>Text mining, also referred to as text data mining, roughly equivalent to text analytics, is the process of deriving high-quality information from text. High-quality information is typically derived through the devising of patterns and trends through means such as statistical pattern learning.</p>
+    <p>contact us </p>
+    
+    </body>
+</html>
