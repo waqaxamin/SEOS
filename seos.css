@@ -71,7 +71,7 @@ margin-bottom: 50px;
 }
 .contact2{
     margin-top: 120px;
-    background-color: #000099;
+    background-color: #ff1a8c;
     border-radius: 10px;
     font-size: 15px;
     color: aliceblue;
@@ -96,7 +96,7 @@ font-size:50px;
 }
 #table1{
     margin-left: 0px;
-    padding: 20px;
+    padding: 0px;
     margin-top:-10px;
     border-color: white;
 }
@@ -142,10 +142,48 @@ a:active {
     font-family: serif;
     font-size: 50px;
     display: inline;
-    margin-left: 200px;
+    margin-left: 0px;
 margin-bottom: 50px;
     color: #304DA1;
 }
 
+   .h4{
+    align-content: center;
+    margin-left: 420px;
+    font-family: serif;
+font-size:50px;
+    text-emphasis-position: below;
+    color: #304DA1;
+}
+ .h3{
+    align-content: center;
+    margin-left: 330px;
+    font-family: serif;
+font-size:50px;
+    text-emphasis-position: below;
+    color: #304DA1;
+}   
+.div3{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.div4{
+      margin-top: -100px;
+    margin-left: 700px;
+}
+.img4{
+    float: left;
+    margin-right: 50px;
    
+  
+}
+.div5{
+    margin-left: 110px;
+    margin-top: 50px;
+}
+.img5{
     
+    float: left;
+    margin-right: 40px;
+    
+}
