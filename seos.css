@@ -62,7 +62,13 @@ a:active {
     display: inline;
     margin-left: 60px;
 margin-bottom: 50px;
-    color: #304DA1;
+    color: #002699;
+}
+.section2{
+    margin-top: 50px;
+}
+.section3{
+    margin-top: 100px;
 }
 .img2{
     float: right;
@@ -92,7 +98,8 @@ margin-bottom: 50px;
     font-family: serif;
 font-size:50px;
     text-emphasis-position: below;
-    color: #304DA1;
+    color: #002699;
+    margin-top: 100px;
 }
 #table1{
     margin-left: 0px;
@@ -114,7 +121,7 @@ font-size:50px;
     margin-top: -75px;
     margin-left: 260px;
 }
-    a:link {
+a:link {
   color: #4B0082;
     text-decoration: none;
 }
@@ -144,7 +151,7 @@ a:active {
     display: inline;
     margin-left: 0px;
 margin-bottom: 50px;
-    color: #304DA1;
+    color: #002699;
 }
 
    .h4{
@@ -153,7 +160,8 @@ margin-bottom: 50px;
     font-family: serif;
 font-size:50px;
     text-emphasis-position: below;
-    color: #304DA1;
+    color: #002699;
+       margin-top: -30px;
 }
  .h3{
     align-content: center;
@@ -161,7 +169,7 @@ font-size:50px;
     font-family: serif;
 font-size:50px;
     text-emphasis-position: below;
-    color: #304DA1;
+    color: #002699;
 }   
 .div3{
     margin-left: 100px;
@@ -186,4 +194,173 @@ font-size:50px;
     float: left;
     margin-right: 40px;
     
+}
+.div6{
+    
+    margin-left: 700px;
+    margin-top: -100px;
+}
+.img6{
+    float: left;
+    margin-right: 50px;
+}
+.h5{
+    color: #002699;
+    font-style: oblique;
+}
+.p6{
+    margin-left: 360px;
+    font-family: serif;
+font-size:50px;
+    text-emphasis-position: below;
+    color: #002699;
+    margin-top: 150PX;
+}
+.p7{
+    margin-left: 450px;
+    font-family: serif;
+font-size:50px;
+    text-emphasis-position: below;
+    color: #002699;
+    margin-top: -30px;
+}
+#table3{
+    margin-left: 0px;
+    padding: 0px;
+    margin-top:-10px;
+    border-color: white;
+}
+#link2{
+   
+    font-size: 35px;
+  margin-left: 50px;
+     font-style: normal;
+}
+#link{
+  margin-left: 50px;
+    font-size: 35px;
+    font-style: normal;
+}
+.p8{
+    margin-left: 430px;
+    font-family: serif;
+font-size:60px;
+    text-emphasis-position: below;
+    color: #002699;
+    margin-top: 120PX;
+}
+.p9{
+    margin-left: 480px;
+    font-family: serif;
+font-size:60px;
+    text-emphasis-position: below;
+    color: #002699;
+    margin-top: -30px;
+}
+.h10{
+    background-color: white;
+    border-radius: 10px;
+    padding: 65px;
+    font-size:35px;
+    font-family: sans-serif;
+    color: #002699;
+    margin-left: -20px;
+    margin-top: -10px;
+}
+.h11{
+    margin-top: -100px;
+}
+.h12{
+    margin-left: 20px;
+}
+.h13{
+    margin-top: -110px;
+    margin-left: 360px;
+}
+.h14{
+    background-color: white;
+    border-radius: 10px;
+    padding: 65px;
+    font-size:35px;
+    font-family: sans-serif;
+    color: #002699;
+    margin-left: -20px;
+    margin-top: -10px;
+}
+.h16{
+     margin-top: -110px;
+    margin-left: 690px;
+}
+.h17{
+     background-color: white;
+    border-radius: 10px;
+    padding: 65px;
+    font-size:35px;
+    font-family: sans-serif;
+    color: #002699;
+    margin-left: -20px;
+    margin-top: -10px;
+}
+.h19{
+     margin-top: -110px;
+    margin-left: 1020px;
+}
+.h20{
+    background-color: white;
+    border-radius: 10px;
+    padding: 65px;
+    font-size:35px;
+    font-family: sans-serif;
+    color: #002699;
+    margin-left: -20px;
+    margin-top: -10px;
+}
+.mq{
+    margin-left: 150px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+}
+#link6{
+    font-size: 30px;
+    color:#002699; 
+}
+.div8{
+    background-color:hotpink;
+    margin-top: 100px;
+    padding: 60px;
+    border-radius: 15px;
+    margin-right: 180px;
+    margin-left: 150px;
+}
+.button4{
+    margin-left: 260px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.pic{
+    color: snow;
+}
+.table5{
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.div10{
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.div11{
+margin-top: -200px;
+    margin-left: 300px;
+}
+.div12{
+    margin-top: -230px;
+    margin-left: 330px;
+}
+.div13{
+    margin-top: -200px;
+    margin-left: 300px;
+}
+.footerp6{
+    margin-top: 100px;
+    margin-left: 400px;
 }
