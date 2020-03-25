@@ -1,5 +1,5 @@
 @charset "UTF-8";
-.navigation {
+#navigation {
     margin-top: 35px;
     align-items: center;
     margin-bottom: 50px;
@@ -34,7 +34,7 @@ a:hover {
 a:active {
   color: blue;
 }
-.contact{
+#contact{
     background-color: #000099;
     border-radius: 10px;
     shape-margin: 0px;
@@ -46,17 +46,17 @@ a:active {
     font-family: sans-serif;
 
 }
-.links1{
+#links1{
     text-decoration: none;
 }
-.p1{
+#p1{
    margin-left: 60PX;
     font-family: serif;
     font-size: 20PX;
   margin-right: 650px;
     margin-bottom: 50px;
 }
-.h1{
+#h1{
     font-family: serif;
     font-size: 50px;
     display: inline;
@@ -64,18 +64,18 @@ a:active {
 margin-bottom: 50px;
     color: #002699;
 }
-.section2{
+#section2{
     margin-top: 50px;
 }
-.section3{
+#section3{
     margin-top: 100px;
 }
-.img2{
+#img2{
     float: right;
     margin-right: 50px;
     margin-top: -20px;
 }
-.contact2{
+#contact2{
     margin-top: 120px;
     background-color: #ff1a8c;
     border-radius: 10px;
@@ -92,7 +92,7 @@ margin-bottom: 50px;
     shape-margin: 60px;
  
 }
-.p2{
+#p2{
     align-content: center;
     margin-left: 300px;
     font-family: serif;
@@ -117,7 +117,7 @@ font-size:50px;
     font-size: 25px;
     align-content: center;
 }
-.p3{
+#p3{
     margin-top: -75px;
     margin-left: 260px;
 }
@@ -140,89 +140,91 @@ a:hover {
 a:active {
   color: blue;
 }
-    .img3{
+#img3{
     float: left;
-    margin-right: 50px;
-    margin-top: -20px;
+    
+    margin-top: -10px;
+   margin-right: 50px;
 }
-.h2{
+#h2{
     font-family: serif;
     font-size: 50px;
     display: inline;
     margin-left: 0px;
-margin-bottom: 50px;
+    margin-bottom: 50px;
     color: #002699;
 }
 
-   .h4{
+#h4{
     align-content: center;
     margin-left: 420px;
     font-family: serif;
-font-size:50px;
+    font-size:50px;
     text-emphasis-position: below;
     color: #002699;
-       margin-top: -30px;
+    margin-top: -10px;
 }
- .h3{
+#h3{
     align-content: center;
     margin-left: 330px;
     font-family: serif;
 font-size:50px;
     text-emphasis-position: below;
     color: #002699;
-}   
-.div3{
+    margin-top: 20px;
+} 
+#div3{
     margin-left: 100px;
     margin-top: 100px;
 }
-.div4{
+#div4{
       margin-top: -100px;
     margin-left: 700px;
 }
-.img4{
+#img4{
     float: left;
     margin-right: 50px;
    
   
 }
-.div5{
+#div5{
     margin-left: 110px;
     margin-top: 50px;
 }
-.img5{
+#img5{
     
     float: left;
     margin-right: 40px;
     
 }
-.div6{
+#div6{
     
     margin-left: 700px;
     margin-top: -100px;
 }
-.img6{
+#img6{
     float: left;
     margin-right: 50px;
 }
-.h5{
+#h5{
     color: #002699;
     font-style: oblique;
 }
-.p6{
+#p6{
     margin-left: 360px;
     font-family: serif;
-font-size:50px;
+    font-size:50px;
     text-emphasis-position: below;
     color: #002699;
     margin-top: 150PX;
 }
-.p7{
+#p7{
     margin-left: 450px;
     font-family: serif;
-font-size:50px;
+    font-size:50px;
     text-emphasis-position: below;
     color: #002699;
-    margin-top: -30px;
+    margin-top: -10px;
 }
 #table3{
     margin-left: 0px;
@@ -230,34 +232,37 @@ font-size:50px;
     margin-top:-10px;
     border-color: white;
 }
+#table4{
+    
+}
 #link2{
    
     font-size: 35px;
-  margin-left: 50px;
-     font-style: normal;
+    margin-left: 50px;
+    font-style: normal;
 }
 #link{
-  margin-left: 50px;
+    margin-left: 50px;
     font-size: 35px;
     font-style: normal;
 }
-.p8{
+#p8{
     margin-left: 430px;
     font-family: serif;
-font-size:60px;
+    font-size:60px;
     text-emphasis-position: below;
     color: #002699;
     margin-top: 120PX;
 }
-.p9{
+#p9{
     margin-left: 480px;
     font-family: serif;
-font-size:60px;
+    font-size:60px;
     text-emphasis-position: below;
     color: #002699;
-    margin-top: -30px;
+    margin-top: -20px;
 }
-.h10{
+#h10{
     background-color: white;
     border-radius: 10px;
     padding: 65px;
@@ -267,17 +272,17 @@ font-size:60px;
     margin-left: -20px;
     margin-top: -10px;
 }
-.h11{
+#h11{
     margin-top: -100px;
 }
-.h12{
+#h12{
     margin-left: 20px;
 }
-.h13{
+#h13{
     margin-top: -110px;
     margin-left: 360px;
 }
-.h14{
+#h14{
     background-color: white;
     border-radius: 10px;
     padding: 65px;
@@ -287,11 +292,11 @@ font-size:60px;
     margin-left: -20px;
     margin-top: -10px;
 }
-.h16{
+#h16{
      margin-top: -110px;
     margin-left: 690px;
 }
-.h17{
+#h17{
      background-color: white;
     border-radius: 10px;
     padding: 65px;
@@ -301,11 +306,11 @@ font-size:60px;
     margin-left: -20px;
     margin-top: -10px;
 }
-.h19{
+#h19{
      margin-top: -110px;
     margin-left: 1020px;
 }
-.h20{
+#h20{
     background-color: white;
     border-radius: 10px;
     padding: 65px;
@@ -315,7 +320,7 @@ font-size:60px;
     margin-left: -20px;
     margin-top: -10px;
 }
-.mq{
+#mq{
     margin-left: 150px;
     margin-right: 200px;
     margin-bottom: 50px;
@@ -324,43 +329,44 @@ font-size:60px;
     font-size: 30px;
     color:#002699; 
 }
-.div8{
+#div8{
     background-color:hotpink;
     margin-top: 100px;
-    padding: 60px;
+    padding: 50px;
     border-radius: 15px;
     margin-right: 180px;
     margin-left: 150px;
 }
-.button4{
-    margin-left: 260px;
-    padding: 20px;
-    border-radius: 10px;
+#button4{
+    margin-left: 660px;
+    padding: 15px;
+    border-radius: 10px;font-size: 20px;
 }
-.pic{
+#pic{
     color: snow;
+    border-top: -10px;
 }
-.table5{
+#table5{
     margin-left: 20px;
     margin-top: 50px;
 }
-.div10{
-    margin-top: 150px;
+#div10{
+    margin-top: 170px;
     margin-left: 100px;
 }
-.div11{
-margin-top: -200px;
+#div11{
+    margin-top: -220px;
     margin-left: 300px;
 }
-.div12{
-    margin-top: -230px;
+#div12{
+    margin-top: -250px;
     margin-left: 330px;
 }
-.div13{
-    margin-top: -200px;
+#div13{
+    margin-top: -220px;
     margin-left: 300px;
 }
-.footerp6{
-    margin-top: 100px;
+#footerp6{
+    margin-top: 120px;
     margin-left: 400px;
 }
